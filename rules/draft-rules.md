@@ -25,5 +25,6 @@
 
 ## My rule
 
+- Every third round players swap hands. 
 Add one rule of your own here, and say what it does. A sentence or two is
 plenty.
